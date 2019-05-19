@@ -62,14 +62,16 @@ public class Hangman {
 		char letter = input.next().charAt(0); //nextChar() does not exist, so returns the first character in a string input instead
 		
 		System.out.printf("Result: ");
-	
+		boolean hit = false;
 		for(int i = 0; i < newGame.colourLength; i++) {
 			if(Character.toLowerCase(letter) == newGame.parsedColour[i]) {
 				newGame.userParsedColour[i] = letter;
 				newGame.lettersRemaining--;
+				hit = true;
 			}
-			else {
+			if(i == newGame.colourLength - 1 && hit == false) {
 				newGame.totalMisses++;
+				
 			}
 				System.out.print(newGame.userParsedColour[i]);
 			
