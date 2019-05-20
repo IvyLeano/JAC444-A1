@@ -97,7 +97,7 @@ public class Hangman {
 					letter = userInput.charAt(0);
 					
 					//fix this here to remove white spaces from a program in java
-			        //
+			        //1st way  
 			        String  userInput2 = userInput.replaceAll("6", "");
 					System.out.println( userInput2 + "_____________________________________________________________________\n");
 
