@@ -1,3 +1,5 @@
+//Add headers
+//fix 20 cap, to handle the > 20 exception
 import java.util.Scanner;
 import java.lang.Math;
 import java.util.Arrays;
