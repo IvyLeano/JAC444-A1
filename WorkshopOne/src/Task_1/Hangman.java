@@ -5,11 +5,11 @@ public class Hangman {
 	public static class GameData {
 		int m_colourLength;
 		int m_lettersRemaining;
+		int m_guessedLetterIndex;
+		int m_incorrectGuesses;
 		char[] m_userKey;
 		char[] m_guessedLetters;
 		char[] m_answerKey;
-		int m_guessedLetterIndex;
-		int m_incorrectGuesses;
 		
 		void setGame() {
 			String[] colours = { "blue", "orange", "yellow", "brown", "green", "purple" };
@@ -58,6 +58,7 @@ public class Hangman {
 
 			System.out.printf("\nWould you like to play again? Enter y or n: ");
 			playAgain = input.next().charAt(0);
+			System.out.print("_____________________________________________________________________\n");
 			System.out.println();
 			if (Character.toLowerCase(playAgain) == 'y') {
 				setGame();
@@ -78,7 +79,6 @@ public class Hangman {
 		char letter;
 		boolean match;
 	
-		
 		// Hangman Greeting
 				System.out.println("_____________________________________________________________________\n");
 				System.out.println("                        Welcome to Hangman!\n");
@@ -99,7 +99,7 @@ public class Hangman {
 					//fix this here to remove white spaces from a program in java
 			        //1st way  
 			        String  userInput2 = userInput.replaceAll("6", "");
-					System.out.println( userInput2 + "_____________________________________________________________________\n");
+					//System.out.printf(userInput2);
 
 					
 					boolean invalidInput = userInput2.length() > 1 || ((int)letter >= 91 && (int)letter <= 96) || ((int)letter >= 32 && (int)letter <= 64) ||
