@@ -1,3 +1,14 @@
+/**********************************************
+Workshop # 1
+Course: JAC444SAB - Summer
+Last Name: Leano - Hill
+First Name: Ivy
+ID: 120331186
+Section: AB
+This assignment represents my own work in accordance with Seneca Academic Policy.
+Signature: Ivy Leano-Hill
+Date: Friday, May 24, 2019
+**********************************************/
 import java.util.Scanner;
 import java.lang.Math;
 import java.util.Arrays;
@@ -6,7 +17,7 @@ public class Hangman2 {
 	public static void main(String[] args) {
 		String[] colours = { "blue", "orange", "yellow", "brown", "green", "purple" };
 		boolean play = true;
-		
+
 		replay: while (play == true) {
 			int index = (int) (1 + Math.random() * 5);
 			int m_colourLength = colours[index].length();
@@ -56,11 +67,14 @@ public class Hangman2 {
 				}
 				if (match == false) {
 					m_incorrectGuesses++;
+				} else if (match == false && m_incorrectGuesses == 20) {
+					System.out.println("You ran out of guesses the correct answer is: " + colours[index]);
+				} else {
+					m_guessedLetters[m_lettersGuessedIndex] = letter;
+					m_lettersGuessedIndex++;
+					m_userKeyString = new String(m_userKey);
+					System.out.println("Result: " + m_userKeyString + "\n");
 				}
-				m_guessedLetters[m_lettersGuessedIndex] = letter;
-				m_lettersGuessedIndex++;
-				m_userKeyString = new String(m_userKey);
-				System.out.println("Result: " + m_userKeyString + "\n");
 			}
 			System.out.println("Game Statistics: ");
 			System.out.println("Total Misses: " + m_incorrectGuesses);
@@ -78,10 +92,10 @@ public class Hangman2 {
 
 	static boolean validateInput(String userInput) {
 		boolean invalidInput = userInput.length() > 1
-				|| ((int) userInput.charAt(0) >= 91 && (int) userInput.charAt(0) <= 96)  // prevents special
-				|| ((int) userInput.charAt(0) >= 32 && (int) userInput.charAt(0) <= 64)  // characters and numbers
-				|| ((int) userInput.charAt(0) >= 123 && (int) userInput.charAt(0) <= 127); 
-																							
+				|| ((int) userInput.charAt(0) >= 91 && (int) userInput.charAt(0) <= 96) // prevents special
+				|| ((int) userInput.charAt(0) >= 32 && (int) userInput.charAt(0) <= 64) // characters and numbers
+				|| ((int) userInput.charAt(0) >= 123 && (int) userInput.charAt(0) <= 127);
+
 		return invalidInput;
 	}
 }
