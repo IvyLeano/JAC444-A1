@@ -30,17 +30,17 @@ public class Craps {
 	}
 
 	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in);
 		GameData newGame = new GameData();
 		
 		//tryAgain: false == first try, true == multiple tries
-		//gameOver: true == ending of while loop, ending of rolls
+		//gameOver: true == ending of while loop and ending of rolls
 		//rollcount to indicate the number of rolls
 		boolean tryAgain = false; 
 		boolean gameOver = false;
 		int rollCount = 1;
 		int point = 0;
 		
+		//greetings
 		System.out.println("********************************************************");
 		System.out.println("                WELCOME TO A GAME OF CRAPS");
 		System.out.println("********************************************************");

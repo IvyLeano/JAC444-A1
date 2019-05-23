@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_PLvgEXmeEem7xPMnrzF8-Q" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_PLwHIHmeEem7xPMnrzF8-Q" bindingContexts="_PLwHInmeEem7xPMnrzF8-Q">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman2.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_1\Hangman2.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_1/Hangman2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman2.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Hangman2.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/Hangman2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_1\Hangman.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_1/Hangman.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Craps.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_2\Craps.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_2/Craps.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Test.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\javatest\Test.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/javatest/Test.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_1\Hangman.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_1/Hangman.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman2.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_1\Hangman2.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_1/Hangman2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman2.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Hangman2.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/Hangman2.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Craps.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_2\Craps.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_2/Craps.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Test.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\javatest\Test.java&quot;>&#xD;&#xA;&lt;persistable uri=&quot;file:/C:/Users/Ivy/Desktop/javatest/Test.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_PLwHIHmeEem7xPMnrzF8-Q" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_PntDUXmeEem7xPMnrzF8-Q" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1514" height="1030">
@@ -211,7 +211,7 @@
       <tags>categoryTag:Help</tags>
     </sharedElements>
     <sharedElements xsi:type="advanced:Area" xmi:id="_QACq0HmeEem7xPMnrzF8-Q" elementId="org.eclipse.ui.editorss" selectedElement="_QACq0XmeEem7xPMnrzF8-Q">
-      <children xsi:type="basic:PartStack" xmi:id="_QACq0XmeEem7xPMnrzF8-Q" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_hlrCcHsXEemaB4bsvbUACA">
+      <children xsi:type="basic:PartStack" xmi:id="_QACq0XmeEem7xPMnrzF8-Q" elementId="org.eclipse.e4.primaryDataStack" selectedElement="_0qteUHxDEemqEqwDgdInkg">
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
@@ -222,18 +222,18 @@
           <tags>removeOnHide</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_hlrCcHsXEemaB4bsvbUACA" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Hangman.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman.java&quot; partName=&quot;Hangman.java&quot; title=&quot;Hangman.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_1\Hangman.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_1/Hangman.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;131&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman.java&quot; partName=&quot;Hangman.java&quot; title=&quot;Hangman.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_1\Hangman.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_1/Hangman.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;187&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
-          <tags>active</tags>
-          <tags>activeOnClose</tags>
         </children>
         <children xsi:type="basic:Part" xmi:id="_0qteUHxDEemqEqwDgdInkg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Hangman2.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Hangman2.java&quot; partName=&quot;Hangman2.java&quot; title=&quot;Hangman2.java&quot; tooltip=&quot;C:\Users\Ivy\Desktop\Java-A1\WorkshopOne\src\Task_1\Hangman2.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.ide.FileStoreEditorInputFactory&quot; uri=&quot;file:/C:/Users/Ivy/Desktop/Java-A1/WorkshopOne/src/Task_1/Hangman2.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;346&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
           <tags>removeOnHide</tags>
+          <tags>active</tags>
+          <tags>activeOnClose</tags>
         </children>
       </children>
     </sharedElements>
@@ -376,7 +376,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PqBXgHmeEem7xPMnrzF8-Q" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3MUDwHwUEemqEqwDgdInkg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_PMUIBnmeEem7xPMnrzF8-Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_t26P0HyyEemgovP_vwkJKw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_PMUIBnmeEem7xPMnrzF8-Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PqBXgXmeEem7xPMnrzF8-Q" elementId="group.edit" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -407,7 +407,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PqB-lXmeEem7xPMnrzF8-Q" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_3MXuIHwUEemqEqwDgdInkg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_PMS5-3meEem7xPMnrzF8-Q"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_t28sEHyyEemgovP_vwkJKw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_PMS5-3meEem7xPMnrzF8-Q"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_PqB-lnmeEem7xPMnrzF8-Q" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -2315,7 +2315,7 @@
   <addons xmi:id="_PLwHMXmeEem7xPMnrzF8-Q" elementId="MinMax Addon" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.minmax.MinMaxAddon"/>
   <addons xmi:id="_PLwHMnmeEem7xPMnrzF8-Q" elementId="org.eclipse.ui.workbench.addon.0" contributorURI="platform:/plugin/org.eclipse.platform" contributionURI="bundleclass://org.eclipse.e4.ui.workbench/org.eclipse.e4.ui.internal.workbench.addons.HandlerProcessingAddon"/>
   <addons xmi:id="_PL5REHmeEem7xPMnrzF8-Q" elementId="SplitterAddon" contributionURI="bundleclass://org.eclipse.e4.ui.workbench.addons.swt/org.eclipse.e4.ui.workbench.addons.splitteraddon.SplitterAddon"/>
-  <addons xmi:id="_IYS0IKimEeS11vbz3f9ezw" elementId="org.eclipse.ui.ide.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
+  <addons xmi:id="_tHm50XyyEemgovP_vwkJKw" elementId="org.eclipse.ui.ide.addon.0" contributionURI="bundleclass://org.eclipse.ui.ide/org.eclipse.ui.internal.ide.addons.SaveAllDirtyPartsAddon"/>
   <addons xmi:id="_dz0JgGOlEeSMMaPQU2nlzw" elementId="org.eclipse.ui.ide.application.addon.0" contributorURI="platform:/plugin/org.eclipse.ui.ide.application" contributionURI="bundleclass://org.eclipse.ui.ide.application/org.eclipse.ui.internal.ide.application.addons.ModelCleanupAddon"/>
   <categories xmi:id="_PMOBMHmeEem7xPMnrzF8-Q" elementId="org.eclipse.team.ui.category.team" name="Team" description="Actions that apply when working with a Team"/>
   <categories xmi:id="_PMOBMXmeEem7xPMnrzF8-Q" elementId="org.eclipse.ui.category.views" name="Views" description="Commands for opening views"/>
