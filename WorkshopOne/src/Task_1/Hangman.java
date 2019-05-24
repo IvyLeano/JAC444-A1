@@ -80,7 +80,7 @@ public class Hangman {
 				}
 				//if the number of incorrect guesses is 19, meaning the last index of the m_guessedLetters[]
 				//end the current game, prompting the user to start a new game or to quit
-				if (m_incorrectGuesses == 19) {
+				if (m_lettersGuessedIndex == 19) {
 					System.out.println("You ran out of guesses, the correct answer is: " + colours[index]);
 					break tryAgain;
 				}
