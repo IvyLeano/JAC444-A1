@@ -1,12 +1,6 @@
 /**********************************************
 Workshop # 1
 Course: JAC444SAB - Summer
-Last Name: Leano - Hill
-First Name: Ivy
-ID: 120331186
-Section: AB
-This assignment represents my own work in accordance with Seneca Academic Policy.
-Signature: Ivy Leano-Hill
 Date: Friday, May 24, 2019
 **********************************************/
 import java.util.Scanner;
